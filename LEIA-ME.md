@@ -4,7 +4,7 @@ Página estática (HTML + CSS inline + 1 script de ~15 linhas). Não precisa de 
 
 ## Arquivos
 - `index.html`: a página inteira (copy, estilos, script da barra fixa mobile).
-- `assets/img/`: capa e páginas reais do eBook (WebP), foto da família, imagem de compartilhamento (`og-image.jpg`).
+- `assets/img/`: capa e páginas reais do eBook (WebP), foto da família, imagem de compartilhamento com a foto da família (`og-familia.jpg`, 1200x630).
 - `assets/fonts/`: Cormorant Garamond e Nunito Sans (latin), hospedadas junto com a página.
 - `favicon.svg`, `favicon-32.png`, `apple-touch-icon.png`.
 
