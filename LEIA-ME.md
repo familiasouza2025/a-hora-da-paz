@@ -17,7 +17,7 @@ Está em 4 botões: topo, oferta, final e barra fixa mobile.
 - Prazo para reembolso: 7 dias.
 
 ## Publicação
-Hospedada no GitHub Pages (repositório `igormpb-png/a-hora-da-paz`, branch `main`): https://igormpb-png.github.io/a-hora-da-paz/
+Hospedada no GitHub Pages (repositório `familiasouza2025/a-hora-da-paz`, branch `main`): https://familiasouza2025.github.io/a-hora-da-paz/
 Se o endereço mudar, atualize canonical, og:url, og:image, twitter:image e o JSON-LD no `<head>`.
 
 ## Depoimentos
